@@ -1,7 +1,7 @@
-# CTech Didik Auto Script VPN
 
 
-## SUPPORT OPERATING SYSTEM
+
+実例
 > Debian/ Ubuntu
 
 
@@ -9,7 +9,7 @@
 
 
 
-
+簡単なインストール
 
 インストール
 ```
